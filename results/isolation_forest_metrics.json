@@ -1,0 +1,18 @@
+{
+    "accuracy": 0.975,
+    "precision_anomaly": 0.9533678756476683,
+    "recall_anomaly": 0.92,
+    "f1_anomaly": 0.9363867684478372,
+    "roc_auc": 0.99726875,
+    "false_negative_rate": 0.08,
+    "false_positive_rate": 0.01125,
+    "true_negative": 791,
+    "false_positive": 9,
+    "false_negative": 16,
+    "true_positive": 184,
+    "training_time_seconds": 0.5848313999995298,
+    "average_inference_time_ms_per_sample": 0.04325068400001328,
+    "model_size_bytes": 1513568,
+    "model_size_kilobytes": 1478.09375,
+    "contamination": 0.2
+}
