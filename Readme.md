@@ -42,3 +42,11 @@ lightweight-energy-anomaly-detection/
 ├── src/
 │   └── generate_data.py
 └── results/
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/lightweight-energy-anomaly-detection.git
+cd lightweight-energy-anomaly-detection
