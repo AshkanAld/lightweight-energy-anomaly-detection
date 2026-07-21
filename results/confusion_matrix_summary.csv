@@ -1,0 +1,4 @@
+model,true_negative,false_positive,false_negative,true_positive
+Logistic Regression,739,61,45,155
+Random Forest,800,0,0,200
+Isolation Forest,791,9,16,184
